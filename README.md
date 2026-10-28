@@ -5,6 +5,7 @@ Support and privacy pages for my mobile apps, served with GitHub Pages.
 | App | Support | Privacy policy |
 |---|---|---|
 | Chord Journey | https://lahirugmg.github.io/mobile-app-support/chord-journey/support/ | https://lahirugmg.github.io/mobile-app-support/chord-journey/privacy/ |
+| Soccer Skills | https://lahirugmg.github.io/mobile-app-support/soccer-skills/support/ | https://lahirugmg.github.io/mobile-app-support/soccer-skills/privacy/ |
 
 ## Adding another app
 Copy `chord-journey/` to a new folder (e.g. `my-app/`), edit the text, and add a card to `index.html`.

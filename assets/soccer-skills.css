@@ -1,0 +1,25 @@
+/* Soccer Skills theme: loads after site.css and swaps the palette to the
+   "Two-Footed" brand (ink, left-foot blue, right-foot orange). */
+body.theme-soccer {
+  --bg: #0b101c;
+  --bg2: #121a2b;
+  --card: #172034;
+  --line: #27324b;
+  --text: #f3f5fa;
+  --muted: #b4bed2;
+  --amber: #ff8a4c;
+  --amber-hi: #ffb088;
+  --sage: #7dd3a0;
+  --blue: #6f93ff;
+  background: radial-gradient(120% 60% at 50% 0%, #1b2a55 0%, #111827 45%, var(--bg) 100%) fixed;
+  background-color: var(--bg);
+}
+body.theme-soccer .brand span,
+body.theme-soccer .hero h1 span { color: var(--blue); }
+body.theme-soccer article.doc { background: rgba(23, 32, 52, 0.78); }
+body.theme-soccer article.doc p,
+body.theme-soccer article.doc li { color: #dfe5f1; }
+body.theme-soccer .callout { background: #13261f; border-color: #2b4a3c; }
+body.theme-soccer .btn,
+body.theme-soccer .btn:hover { color: #111827; }
+body.theme-soccer .badge { color: #111827; }

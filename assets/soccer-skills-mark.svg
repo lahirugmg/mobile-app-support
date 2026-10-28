@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="17 19 66 66" role="img" aria-label="Soccer Skills logo: a ball held between a blue arc and an orange arc">
+  <defs><clipPath id="ss-ball"><circle cx="50" cy="52" r="14.2"/></clipPath></defs>
+  <path d="M36.5 28.62 A27 27 0 0 0 36.5 75.38" fill="none" stroke="#3D6BFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M63.5 28.62 A27 27 0 0 1 63.5 75.38" fill="none" stroke="#F26B1D" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="50" cy="52" r="16" fill="#FFFFFF"/>
+  <g clip-path="url(#ss-ball)">
+    <path fill="#111827" d="M50.00 46.40 L55.33 50.27 L53.29 56.53 L46.71 56.53 L44.67 50.27 Z M56.11 43.59 L53.86 36.65 L59.76 32.37 L65.65 36.65 L63.40 43.59 Z M59.89 55.21 L65.79 50.93 L71.68 55.21 L69.43 62.15 L62.14 62.15 Z M50.00 62.40 L55.90 66.68 L53.64 73.62 L46.36 73.62 L44.10 66.68 Z M40.11 55.21 L37.86 62.15 L30.57 62.15 L28.32 55.21 L34.21 50.93 Z M43.89 43.59 L36.60 43.59 L34.35 36.65 L40.24 32.37 L46.14 36.65 Z"/>
+    <path fill="none" stroke="#111827" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="M50.00 46.40 L50.00 41.10 L43.89 43.59 M50.00 41.10 L56.11 43.59 M55.33 50.27 L60.37 48.63 L56.11 43.59 M60.37 48.63 L59.89 55.21 M53.29 56.53 L56.41 60.82 L59.89 55.21 M56.41 60.82 L50.00 62.40 M46.71 56.53 L43.59 60.82 L50.00 62.40 M43.59 60.82 L40.11 55.21 M44.67 50.27 L39.63 48.63 L40.11 55.21 M39.63 48.63 L43.89 43.59"/>
+  </g>
+</svg>
